@@ -1,25 +1,19 @@
-# AI Keywords
+# Machine learning in Microsoft Azure
 
-## Machine Learning
+Microsoft Azure provides the Azure Machine Learning service - a cloud-based platform for creating, managing, and publishing machine learning models. Azure Machine Learning Studio offers multiple authoring experiences such as:
 
-Machine learning is the foundation of many AI systems. It involves teaching a computer model to make predictions and draw conclusions from data.
+## Automated machine learning
 
-## Computer Vision
+This feature enables non-experts to quickly create an effective machine learning model from data.
 
-Computer vision enables AI to interpret the world visually through cameras, video, and images.
+## Azure Machine Learning designer
 
-## Natural Language Processing
+A graphical interface enabling no-code development of machine learning solutions.
 
-Natural language processing allows AI to understand and respond to written or spoken language.
+## Data metric visualization
 
-## Document Intelligence
+Analyze and optimize your experiments with visualization.
 
-Document intelligence deals with managing, processing, and using high volumes of data found in forms and documents.
+## Notebooks
 
-## Knowledge Mining
-
-Knowledge mining extracts information from large volumes of often unstructured data to create a searchable knowledge store.
-
-## Generative AI
-
-Generative AI creates original content in various formats, including natural language, images, code, and more.
+Write and run your own code in managed Jupyter Notebook servers that are directly integrated in the studio.
