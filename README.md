@@ -1,25 +1,15 @@
-# AI Keywords
+# Natural language processing in Microsoft Azure
 
-## Machine Learning
+You can use Microsoft's **Azure AI Language** to build natural language processing solutions. Some features of Azure AI Language include understanding and analyzing text, training conversational language models that can understand spoken or text-based commands, and building intelligent applications.
 
-Machine learning is the foundation of many AI systems. It involves teaching a computer model to make predictions and draw conclusions from data.
+## Azure AI Speech
 
-## Computer Vision
+Is another service that can be used to build natural language processing solutions. Azure AI Speech features include speech recognition and synthesis, real-time translations, conversation transcriptions, and more.
 
-Computer vision enables AI to interpret the world visually through cameras, video, and images.
+## Azure AI Translator
 
-## Natural Language Processing
+Uses a Neural Machine Translationn (NMT) model for translation, which analyzes the semantic context of the text renders a more accuarate and complete transaction as a result
 
-Natural language processing allows AI to understand and respond to written or spoken language.
+## Azure Language Studio
 
-## Document Intelligence
-
-Document intelligence deals with managing, processing, and using high volumes of data found in forms and documents.
-
-## Knowledge Mining
-
-Knowledge mining extracts information from large volumes of often unstructured data to create a searchable knowledge store.
-
-## Generative AI
-
-Generative AI creates original content in various formats, including natural language, images, code, and more.
+You can explore Azure AI Language features in the Azure Language Studio and Azure AI Speech features in the Azure Speech Studio. The service feature are available for use and testing in the studios and other programming languages.
