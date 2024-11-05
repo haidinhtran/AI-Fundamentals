@@ -1,7 +1,9 @@
-# Document intelligence in Microsoft Azure
+# Knowledge Mining
 
-**Azure Document Intelligence** can be used to build solutions that manage and accelerate data collection from scanned documents.
+Knowledge mining is the term used to describe solutions that involve extracting information from large volumes of oftern unstructured data to create a searchable knowledge store.
 
-You can use prebuilt models to add intelligent document processing for invoices, receipts, health insurance cards, tax forms, and more.
+# Knowledge Mining in Microsoft Azure
 
-You can also use Azure AI Documnt Intelligence to create custom models with your own labeld datasets.
+One Microsoft knowledge mining solution is **Azure AI Searc**, a private, enterprise, search solution that has tools for building indexes. The indexes can then be used for internal only use, or to enable searchable content on public facing internet assets.
+
+Auzure AI Search can utilize the built -in AI capabilities of Azure AI services such as image processing, document intelligence, and natural language processing to extract data.
