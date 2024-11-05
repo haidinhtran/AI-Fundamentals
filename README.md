@@ -1,25 +1,7 @@
-# AI Keywords
+# Document intelligence in Microsoft Azure
 
-## Machine Learning
+**Azure Document Intelligence** can be used to build solutions that manage and accelerate data collection from scanned documents.
 
-Machine learning is the foundation of many AI systems. It involves teaching a computer model to make predictions and draw conclusions from data.
+You can use prebuilt models to add intelligent document processing for invoices, receipts, health insurance cards, tax forms, and more.
 
-## Computer Vision
-
-Computer vision enables AI to interpret the world visually through cameras, video, and images.
-
-## Natural Language Processing
-
-Natural language processing allows AI to understand and respond to written or spoken language.
-
-## Document Intelligence
-
-Document intelligence deals with managing, processing, and using high volumes of data found in forms and documents.
-
-## Knowledge Mining
-
-Knowledge mining extracts information from large volumes of often unstructured data to create a searchable knowledge store.
-
-## Generative AI
-
-Generative AI creates original content in various formats, including natural language, images, code, and more.
+You can also use Azure AI Documnt Intelligence to create custom models with your own labeld datasets.
