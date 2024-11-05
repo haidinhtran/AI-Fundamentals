@@ -1,9 +1,7 @@
-# Knowledge Mining
+# Generative AI in Microsoft Azure
 
-Knowledge mining is the term used to describe solutions that involve extracting information from large volumes of oftern unstructured data to create a searchable knowledge store.
+You can use the Azure OpenAI service to build generative AI solutions.
 
-# Knowledge Mining in Microsoft Azure
+**Azure OpenAI Service** is Microsoft's cloud solutions for deploying, customizing, and hosting generative AI models. It brings together the best of OpenAI's cutting edge models and APIs with the security and scalability of the Azue cloud platform.
 
-One Microsoft knowledge mining solution is **Azure AI Searc**, a private, enterprise, search solution that has tools for building indexes. The indexes can then be used for internal only use, or to enable searchable content on public facing internet assets.
-
-Auzure AI Search can utilize the built -in AI capabilities of Azure AI services such as image processing, document intelligence, and natural language processing to extract data.
+Azure OpenAI supports many foundation model choices thatcan serve diferent needs. The serivce features are available for use and testing in the **Azure AI Studio** and other programming languages.
